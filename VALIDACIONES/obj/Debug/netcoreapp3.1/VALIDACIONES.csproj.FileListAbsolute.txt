@@ -1,0 +1,13 @@
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\bin\Debug\netcoreapp3.1\VALIDACIONES.exe
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\bin\Debug\netcoreapp3.1\VALIDACIONES.deps.json
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\bin\Debug\netcoreapp3.1\VALIDACIONES.runtimeconfig.json
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\bin\Debug\netcoreapp3.1\VALIDACIONES.runtimeconfig.dev.json
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\bin\Debug\netcoreapp3.1\VALIDACIONES.dll
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\bin\Debug\netcoreapp3.1\VALIDACIONES.pdb
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\obj\Debug\netcoreapp3.1\VALIDACIONES.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\obj\Debug\netcoreapp3.1\VALIDACIONES.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\obj\Debug\netcoreapp3.1\VALIDACIONES.AssemblyInfo.cs
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\obj\Debug\netcoreapp3.1\VALIDACIONES.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\obj\Debug\netcoreapp3.1\VALIDACIONES.dll
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\obj\Debug\netcoreapp3.1\VALIDACIONES.pdb
+C:\Users\Franco\Desktop\Proyectos C#\VALIDACIONES\VALIDACIONES\VALIDACIONES\obj\Debug\netcoreapp3.1\VALIDACIONES.genruntimeconfig.cache
